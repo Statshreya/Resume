@@ -13,6 +13,3 @@ Once you have the repository cloned, you can open the index.html file in your we
 
 ## Customizing the Resume
 To customize the resume, simply edit the index.html and style.css files. You can add your own personal information and styling to create a unique resume that showcases your skills and experience.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
