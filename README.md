@@ -1,4 +1,4 @@
-# vResume Using HTML & CSS
+# Resume Using HTML & CSS
 This is a simple project to create a resume using HTML and CSS. The goal of this project is to showcase your skills in creating a basic web page using these technologies, as well as provide a template for a personal resume.
 ## Technologies Used
 - HTML5
